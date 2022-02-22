@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epitomy, shewing when the Protestant religion began, why so call'd, the parts thereof the three creeds, and wherefore people stand when one is said : how and when infant baptism came to be used ... : also the Presbyterians, and what they hold and what Scriptures they produce, and the Independants, and the Baptists, what Scriptures they produce, the Quakers, somewhat of their principles and what Scriptures they produce / by John Axford.</title>
+            <author>Axford, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26267</idno>
+            <idno type="STC">Wing A4280</idno>
+            <idno type="STC">ESTC R11103</idno>
+            <idno type="EEBO-CITATION">11683444</idno>
+            <idno type="OCLC">ocm 11683444</idno>
+            <idno type="VID">48136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 9:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epitomy, shewing when the Protestant religion began, why so call'd, the parts thereof the three creeds, and wherefore people stand when one is said : how and when infant baptism came to be used ... : also the Presbyterians, and what they hold and what Scriptures they produce, and the Independants, and the Baptists, what Scriptures they produce, the Quakers, somewhat of their principles and what Scriptures they produce / by John Axford.</title>
+                  <author>Axford, John.</author>
+               </titleStmt>
+               <extent>16, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Friend's Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48136:1"/>
+            <pb facs="tcp:48136:1" rendition="simple:additions"/>
+            <p>AN EPITOMY.</p>
+            <p>SHEWING When the Proteſtant Religion began, why ſo call'd, the parts thereof.</p>
+            <p>The Three Creeds, and wherefore People ſtand up when one is ſaid.</p>
+            <p>How and when Infant-Baptiſm came to be uſed; and when and wherefore <hi>God-Fathers</hi> and <hi>God-Mothers</hi> (ſo call'd) came to be ordain'd, and the Sign of the <hi>Croſs</hi> to be uſed; and when and how <hi>Sprinkling</hi> came to be uſed inſtead of <hi>Baptiſm.</hi>
+            </p>
+            <p>ALSO,
+<list>
+                  <item>The <hi>Presbyterians,</hi> and what they hold, and what Scriptures they produce.</item>
+                  <item>And the <hi>Independents,</hi> and the <hi>Baptiſts,</hi> what Scriptures they produce.</item>
+                  <item>The <hi>Quakers,</hi> ſomewhat of their Principles, and what Scriptures they produce</item>
+               </list>
+            </p>
+            <p>
+               <hi>By</hi> John Axford.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:48136:2"/>
+            <head>The Proteſtant Religion, how it came to be call'd ſo, and when, and what it is.</head>
+            <p>IN the Year 1517. <hi>Martin Luther</hi> Publiſhed againſt the <hi>Pope,</hi> and <hi>Popiſh Religion;</hi> thoſe Princes and People that joyned with <hi>Luther,</hi> were call'd <hi>Lutherans.</hi> 1529. The Name of <hi>Proteſtants</hi> began, upon the Proteſting of the <hi>Elector</hi> and <hi>Landtgrave</hi> of <hi>Heſſen,</hi> againſt a <hi>Popiſh Edict;</hi> it is compoſed of the Book of <hi>Common-Prayer,</hi> and five <hi>Homilies,</hi> for Miniſters that could not Preach, to be Read by them at cer<g ref="char:EOLhyphen"/>tain times, for the People, when aſſembled at their Pariſh Churches. In the Reign of King <hi>James</hi> the Firſt, there were added 39 Articles, in which are reckoned the Errors of the <hi>Popiſh Religion,</hi> and many others; which are all Pro<g ref="char:EOLhyphen"/>teſted againſt by the Proteſtants.</p>
+            <p>And in the Book of <hi>Common-Prayer</hi> are Three Creeds, the <hi>Athanaſian,</hi> the <hi>Apoſtle</hi>'s, and the <hi>Ni<g ref="char:EOLhyphen"/>cene;</hi> when the <hi>Apoſtle</hi>'s Creed is ſaid, the People ſtand up, not knowing the reaſon; for I have in my time asked of many, but never any of them could tell me. It is Recorded in Hiſtory, That when the Apoſtles were aſſem<g ref="char:EOLhyphen"/>bled at <hi>Jeruſalem,</hi> after the Aſcenſion of our Saviour, <hi>Matthias</hi> being choſen in the room of <hi>Judas,</hi> every one made his Article, being Twelve; <hi>Peter</hi> made the firſt, <hi>I Believe in God the Father Almighty, Maker of Heaven and Earth;</hi> ſo when every one had made his Article, they
+<pb n="3" facs="tcp:48136:2"/>all ſtood up, and agreed, They could ſuffer Death, or any Puniſhment, rather than deny it. So it is ſaid, the Church did ordain, When it was ſaid or read to the Congregation, they ſhould all ſtand up. It's reported, That in <hi>Po<g ref="char:EOLhyphen"/>land,</hi> when it is ſaid to the Congregation, they all ſtand up, as the Proteſtants do; and the Gentry draw their Swords, and hold them up, while the Creed is ſaid.</p>
+            <p>Pope <hi>Hyginus</hi> ordain'd Infant-Baptiſm above Twelve Hundred Years paſt; that was the cauſe that <hi>Fonts</hi> are in all Pariſh Churches, ſo called; for they being fill'd with Water, the Infants were put under the Water, all over; and this way ſo continued above 900 Years. There be<g ref="char:EOLhyphen"/>ing a general Council of Biſhops in <hi>Germany,</hi> the Northern Biſhops complained, That many Children did die preſently, or in a little time after, ſo deſired that Sprinkling might ſerve inſtead of Dipping; which was granted, to the Cold Countries; but to the Hot, Dipping to continue: For the <hi>Papiſts</hi> believe, That if Infants die before their <hi>Chriſtendom,</hi> they go to a place call'd, <hi>Limbus Infantum,</hi> where they re<g ref="char:EOLhyphen"/>main without Joy or Sorrow, until the Day of Judgment; ſo when a Child was like to die, they made what haſte they could to Baptize it; for Sprinkling was granted by <hi>Popiſh Bi<g ref="char:EOLhyphen"/>ſhops,</hi> and confirmed by the <hi>Pope.</hi> And when Sprinkling was ordain'd, to be uſed here in <hi>England,</hi> in the place of Dipping, there were about Forty Thouſand <hi>Corniſh Men</hi> rais'd, to op<g ref="char:EOLhyphen"/>poſe
+<pb n="4" facs="tcp:48136:3"/>Sprinkling; ſo the Biſhop of <hi>London,</hi> and ſome others, and the Biſhop of <hi>Exeter,</hi> pacify'd them, that they agreed for the Sprinkling to be uſed in the place of Baptizing.</p>
+            <div type="part">
+               <head>How the Sign of the Croſs came to be uſed.</head>
+               <p>An Emperor of <hi>Rome,</hi> call'd <hi>Conſtantine</hi> the Great, born at <hi>York,</hi> his Father was a <hi>Heathen,</hi> his Mother a <hi>Chriſtian,</hi> who educated him to be a <hi>Chriſtian;</hi> there were two Co-Partners with him in the Empire, who were <hi>Heathens;</hi> and as <hi>Conſtantine</hi> marched with his Army, in the Night, againſt them, he ſaw in the Ele<g ref="char:EOLhyphen"/>ment a Croſs of Stars, and on the left ſide, <hi>Hoc;</hi> on the right ſide, <hi>Vinces;</hi> which ſignified to him, <hi>By this thou ſhalt overcome.</hi> So he cauſed the Sign of the Croſs, and the Words, to be put in all his Banners; ſo he overcame both the others, and was only Emperor himſelf. So it was ordain'd, When any were Baptized, they ſhould be ſigned with the Sign of the Croſs; which was not long after the Conſtitution of Infant-Baptiſm.</p>
+            </div>
+            <div type="part">
+               <head>How them they call <hi>God-fathers</hi> and <hi>God-mothers</hi> came in Uſe.</head>
+               <p>
+                  <hi>Conſtantine</hi> having overcome the <hi>Heathen,</hi> be<g ref="char:EOLhyphen"/>ing then Emperor of the known World: He did not cauſe any of the <hi>Heathen</hi> to become <hi>Chriſtians</hi> by force, they had Liberty; but did ordain their Children to be Baptized; ſo they were to have two Men and two Woman to be
+<pb n="5" facs="tcp:48136:3"/>Pledges or Sureties, to ſee and take Care, they ſhould be Educated in the Chriſtian Religion, and be kept at the Chriſtian Schools; and when they were fit for Trades, to place them with Chriſtians. They had Power to take them from their Heathen Parents; if they were Rich, to make them pay, if Poor; to be paid out of the publick Fund or Stock; (but if their Parents ſuffered them to go to Chriſtian Schools, they bred them up.) As its made uſe of, and has been many Years, it's ſuperfluous; for they Promiſe that they never mean to Perform, for Themſelves and Child: And the Prieſt ſaith, He does Baptize, when he does but Sprinkle Water on the Child's Face, and ſaith, The Child is Regenerated: They ſay ſeveral Words one to another, that is not true, as may be ſeen or read in the <hi>Order of Baptiſm,</hi> in the <hi>Book</hi> of <hi>Common-Prayer;</hi> ſo in their <hi>Catechiſm,</hi> the Child is asked, <hi>Who gave him his Name?</hi> He An<g ref="char:EOLhyphen"/>ſwers, <hi>My God-fathers, and God-mothers, in my Baptiſm, wherein I was made a Member of Chriſt, a Child of god, and an Inheritor of the Kingdom of Heaven.</hi> Whether this be true, let People judge. Alſo the Prieſt ſaith, to the Congregation, <hi>I pray and beſeech you, as many as be here preſent, to accompany me with a pure Heart, and humble Voice,</hi> ſaying, after me, <hi>Almighty and moſt mer<g ref="char:EOLhyphen"/>ciful Father, we have erred and ſtrayed from thy Ways like loſt Sheep, and there is no Health in us.</hi> Where is the pure Heart? Many others may be ſeen, beſides vain Repetitions, which People are Ignorant of.</p>
+               <pb n="6" facs="tcp:48136:4"/>
+               <p>The <hi>Presbytery</hi> is alledged from the Pattern or Elderſhip and <hi>Presbytery</hi> of the Apoſtles and El<g ref="char:EOLhyphen"/>ders, of the firſt Churches of the Goſpel, and Primitive Times; which they endeavour to prove from theſe Scriptures, <hi>Acts</hi> 15.4, 6, 17, 20. 1 <hi>Cor.</hi> 3.5. <hi>Epheſ.</hi> 3.7. <hi>Coloſ.</hi> 1.25. 1 <hi>Tim.</hi> 1.3, 18. &amp; 4.6. &amp; 5.1, 17. &amp; 6.13, 14, <hi>Titus</hi> 1.5. 1 <hi>Pet.</hi> 5.1.</p>
+               <p>Their Churches are Parochial, or Pariſhes, as they were divided at firſt by the <hi>Romiſh Prelates,</hi> or Statute Laws, of the State or Kingdom; and are made Chriſtians by Baptizing or Sprinkling Infants, and are of a ſtrict Reforming Govern<g ref="char:EOLhyphen"/>ment, as to the outward Man, where they have a Power. The Pariſhes or Congregati<g ref="char:EOLhyphen"/>ons, that are under them, are Claſſical, where the Offender or Scandalous, is firſt to appear, where ſo many as are of the Claſſis doth ap<g ref="char:EOLhyphen"/>point, in ſome Town, moſt for conveniency, where they meet once a Month, next to the <hi>Provincial Synod</hi> once a Quarter, and to the <hi>Na<g ref="char:EOLhyphen"/>tional Synod</hi> once a Year; ſo if there be not a Reformation, or manifeſt Repentance, they are cited from one to the next; the laſt Determines, or Judgeth according to the Offence.</p>
+               <p>It's reported, that in <hi>Geneva,</hi> a ſtrong City, where they are <hi>Calviniſts,</hi> that is, <hi>Presbyteries,</hi> there is neither <hi>Drunkard, Curſer</hi> or <hi>Swearer,</hi> known in any Pariſh. They exerciſe a <hi>Church Power,</hi> which they call, <hi>The Power of the Keys.</hi>
+               </p>
+               <p>Before the Toleration, they had ſome private Meetings, but went alſo to the Publick: They
+<pb n="7" facs="tcp:48136:4"/>have ſince great Meetings, and Houſes to meet in; they Sprinkle Infants of thoſe they account Members of their Church; the ſtricter ſort have no Witneſſes, as ſome have: They break Bread at ſometimes appointed, to thoſe ac<g ref="char:EOLhyphen"/>counted Members.</p>
+               <p>There is a great difference between the Pri<g ref="char:EOLhyphen"/>mitive <hi>Presbytery,</hi> and that which hath been ſince, and is in this Age. They did not force nor Perſecute others, as they have where they have had Power; nor Dip or Sprinkle their In<g ref="char:EOLhyphen"/>fants: They differ much from the Primitive; they are more Authoritative, and ſeek to the Magiſtrate, <hi>Acts</hi> 14.23. &amp; 15.22, 29. 2 <hi>Cor.</hi> 1.24. 1 <hi>Tim.</hi> 6.3, 4. <hi>Matth.</hi> 20.25, 26, 27. <hi>Luke</hi> 22.25, 26, 27. <hi>John</hi> 16.13. <hi>Gal.</hi> 1.12. 1 <hi>Pet.</hi> 5.3.</p>
+               <p>The <hi>Independants</hi> count themſelves a Church, or People of God, when called, by the Word, or Spirit, into a Conſent or Covenant, and ſo Saints by Profeſſion, not to Force or Compel any to be of their Way or Opinion: But they have a free Government among themſelves. They are made Chriſtians at firſt by being Bap<g ref="char:EOLhyphen"/>tized, or Sprinkled, when Infants, with Water, and after by the Word, and Covenant Holi<g ref="char:EOLhyphen"/>neſs; and then they may injoy or partake of the Ordinances, of breaking Bread, and to drink Wine: They alledge theſe Scriptures, <hi>Acts</hi> 2.41, 42. 1 <hi>Cor.</hi> 1.2, 9. 2 <hi>Cor.</hi> 6.16, 17. <hi>Coloſ.</hi> 1.2. 1 <hi>Pet.</hi> 2.5. <hi>Eph.</hi> 1.1. <hi>Rom.</hi> 11.16.</p>
+               <pb n="8" facs="tcp:48136:5"/>
+               <p>They have no ſuch Power, as the Apoſtles, to make or gather Churches; Churches did not gather them: The Apoſtles had a Power to act; the Members of their Churches were Bap<g ref="char:EOLhyphen"/>tized, or Sprinkled, under <hi>Prelacy,</hi> are no right Baptized Members of true Churches; that of <hi>Covenant Holineſs,</hi> in 1 <hi>Cor.</hi> 7.14. is, to anſwer a ſcruple; conſequences drawn from <hi>Circumci<g ref="char:EOLhyphen"/>ſion</hi> are of no force; the Baptizing of Infants cannot have ſuch a Church as were the Be<g ref="char:EOLhyphen"/>lievers in the Apoſtles Days: Theſe Scriptures are againſt the <hi>Independants, Acts</hi> 2.39, 42. &amp; 14.21, 22, 23. 1 <hi>Cor.</hi> 14.22. 1 <hi>Tim.</hi> 3.15. &amp; 4.14. <hi>Matth.</hi> 3.6, 9. 1 <hi>John</hi> 3. <hi>Rom.</hi> 4.16. <hi>Gal.</hi> 3.16. 1 <hi>Cor.</hi> 10.1. <hi>Acts</hi> 2.41, 42. <hi>Matth.</hi> 28.20.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Anabaptiſm,</hi> what it is, and what they hold.</head>
+               <p>That they are a Church of Chriſt, being a Company of Baptized Believers, Aſſembled to<g ref="char:EOLhyphen"/>gether in his Name, to hear the Goſpel, or Word Preached; and any one of them, that is ſo able or gifted, may Teach, Preach or Bap<g ref="char:EOLhyphen"/>tize. That none are to be Baptized, but ſuch as are Believers, and are able to give a Reaſon of their Faith. That none are to be called Bre<g ref="char:EOLhyphen"/>thren or Siſters, but ſuch as are Baptized Belie<g ref="char:EOLhyphen"/>vers. Thoſe commonly called <hi>Paſtors, Mini<g ref="char:EOLhyphen"/>ſters, Church-Officers,</hi> are ſuch as the Baptized Believers hath no need of, or may be without. That none ought to Communicate or Partake of the Ordinances of Chriſt (till they are Bap<g ref="char:EOLhyphen"/>tized) as the <hi>Supper, Bread</hi> and <hi>Wine;</hi> ſo their
+<pb n="9" facs="tcp:48136:5"/>Government and Diſcipline is amongſt them<g ref="char:EOLhyphen"/>ſelves. The Scriptures which they bring for Proof, are, <hi>Matth.</hi> 3.6, 16. &amp; 28.19. <hi>Mark.</hi> 16.16. <hi>John</hi> 4.1, 8, 31. &amp; 15.10. <hi>Acts</hi> 2.41. &amp; 9.18. &amp; 10.48. <hi>Iſaiah</hi> 1.16. &amp; 8.16. <hi>Heb.</hi> 12.22. <hi>Rom.</hi> 6.3, 4. <hi>Acts</hi> 8.38. &amp; 16.33. &amp; 19.4.5. &amp; 20.7. <hi>Rom.</hi> 6.3, 4. <hi>John</hi> 15.14. In ſome of theſe Scriptures there's no mention, the Apoſtles uſed in the Name of the <hi>Father, Son</hi> and <hi>Holy Ghoſt,</hi> nor <hi>Water:</hi> There is a Bap<g ref="char:EOLhyphen"/>tiſm of Gifts, of Suffering, and for the Dead, Miracles, and of the Spirit.</p>
+            </div>
+            <div type="part">
+               <head>The People called <hi>Quakers,</hi> what they hold.</head>
+               <p>A Freedom from Sin, and a perfect ſtate to be witneſſed in this Life, or on this ſide the Grave, and that the Light within is ſufficient to Save; for that which reproved <hi>Adam</hi> and <hi>Eve,</hi> after they had eaten the <hi>Forbidden Fruit,</hi> is the ſame that hath reproved Sinners ever ſince; and that which hath guided or lead <hi>Adam</hi> and <hi>Eve</hi> out of the Fall, or Tranſgreſſi<g ref="char:EOLhyphen"/>on, into the happy and bleſſed State, is the ſame that hath guided or lead all ever ſince, that hath been truly convinced, and repented, and yielded true obedience to the Light with<g ref="char:EOLhyphen"/>in, the holy Spirit of Truth, as their Guide, Leader and Conductor; they have all witneſſed the Reſtauration out of the Fall and Tranſgreſ<g ref="char:EOLhyphen"/>ſion, into the happy and bleſſed Eſtate, before they departed out of this Temporal Life; ſo all the Saints mentioned in the holy Scriptures,
+<pb n="10" facs="tcp:48136:6"/>never committed the ſame Sin more than once, as <hi>Adam</hi> and <hi>Eve</hi> witneſſed ſo <hi>Abel, Seth, Enoch, Noah,</hi> his Wife and his Sons, <hi>Shem, Ham,</hi> and <hi>Japhet,</hi> and their Wives; and <hi>Ham,</hi> though his Father curſed him; ſo all the Fathers of the Line of Chriſt, before the Flood, and after to <hi>Abram,</hi> his Wife and Family, <hi>Iſaac,</hi> and his Wife, <hi>Gen.</hi> 20. <hi>Abimelech</hi> ſaid, <hi>Lord wilt thou ſlay a Righteous Nation? Jacob</hi> his Family, <hi>Mo<g ref="char:EOLhyphen"/>ſes, Aaron, Eleazer, Joſhua, Caleb,</hi> and the <hi>ſe<g ref="char:EOLhyphen"/>ven Thouſand that did not Bow their Knees to</hi> Baal, 1 Kings 18. And all the holy Prophets and righteous People: <hi>Iſaiah</hi> 65.1. <hi>I was found of them that ſought me not; and have been made manifeſt to them that asked not after me:</hi> Jer. 31.31, 32, 33, 34. <hi>Rom,</hi> 11.26, 27. <hi>Heb.</hi> 11. Where a part is put for the whole, where their Faith is men<g ref="char:EOLhyphen"/>tioned, by which the Elders obtained a good Report: Thus I have proved how the Reſtau<g ref="char:EOLhyphen"/>ration was witneſſed before the Coming of Chriſt in the Fleſh. <hi>Luke</hi> 1.6. Zacharias <hi>and his Wife</hi> Elizabeth <hi>were juſt before God, and walked in all the Commandments and Ordinances of the Lord, blameleſs:</hi> Luke 2.25. There was a <hi>Man in</hi> Jeruſalem, <hi>whoſe name was</hi> Simeon, <hi>this Man was Juſt, and feared God, and waited for the Conſolation of Iſrael; and the holy Spirit was upon him, and a Revelation was given him of the holy Spirit.</hi> John 1.1. <hi>In the beginning was the Word, and the Word was with God, and that Word was God.</hi> Verſ. 2. <hi>The ſame was in the beginning with God.</hi> Verſ. 3. <hi>All things were made by it;
+<pb n="11" facs="tcp:48136:6"/>and without it was nothing made that was made.</hi> Verſ. 4. <hi>In it was Life, and the Life was the Light of Men.</hi> Verſ. 5. <hi>And the Light ſhineth in the Darkneſs, and the Darkneſs comprehended it not.</hi> Verſ. 6. <hi>There was a Man ſent from God, whoſe Name was</hi> John. Verſ. 7. <hi>The ſame came for a Witneſs, to bear Witneſs of the Light, that all Men through him might believe.</hi> Verſ. 8. <hi>He was not that Light, but was ſent to bear witneſs of the Light.</hi> Verſ. 9. <hi>That was the true Light, which lighteth every Man that cometh into the World.</hi> Un<g ref="char:EOLhyphen"/>to which <hi>Light,</hi> whoſoever ſhall give diligent heed and obedience, this <hi>Light</hi> is ſufficient to Lead or Guide out of all Sin, to a perfect State in this Life, or on this ſide the Grave; even to ſuch a State as was in the World before Sin was in the World, and not mutable or change<g ref="char:EOLhyphen"/>able, as that was: <hi>Luke</hi> 2.17, to 31. It was revealed to <hi>Simeon,</hi> by the holy Spirit, he ſhould not <hi>ſee Death before he had ſeen the Lord's Chriſt.</hi> And in the <hi>Temple he took him in his Armes,</hi> and ſaid, <hi>Lord, now letteſt thou thy Servant depart in Peace, according to thy Word: For mine Eyes have ſeen thy Salvation: Which thou haſt prepared before the Face of all People: A Light to enlighten the</hi> Gentiles, <hi>and the Glory of thy People Iſrael:</hi> This <hi>Light is within:</hi> Rom. 1.19. <hi>For that which may be known of God, is manifeſt in Man,</hi> &amp;c. 1 <hi>John</hi> 1.5. <hi>God is Light:</hi> Rom. 2.15. <hi>Which ſhew the effect of the Law written in their Hearts; their Con<g ref="char:EOLhyphen"/>ſcience alſo bearing witneſs, and their thoughts accu<g ref="char:EOLhyphen"/>ſing, or excuſing one another.</hi> Heb. 8.10. to the
+<pb n="12" facs="tcp:48136:7"/>end, the Lord's Promiſe is, <hi>to put his Law in their Minds, and write them in their Hearts, and he will be their God, and they ſhall be his People.</hi> 1 Tim. 1.5. <hi>Now the end of the Commandment, is Charity, out of a pure Heart, good Conſcience, and unfeigned Faith.</hi> 2 Cor. 14.5. <hi>Search, try, examine your ſelves, know ye not your own ſelves, how that Jeſus Chriſt is in you, except you be Reprobates?</hi> Here's <hi>Searching, Trying, Examining;</hi> where ſhould this be, but within, by the true Light, Chriſt Jeſus? For tho' <hi>He be aſcended far above all Heavens, yet he hath given Gifts to Men,</hi> Epheſ. 4.10. <hi>That he might fill all things,</hi> verſ. 11, 12. Gal. 2.19, 20. <hi>I am crucified with Chriſt; thus I live, yet not I now, but Chriſt liveth in me: And the life that I now live in the Fleſh, I live by the Faith of the Son of God, who hath loved me, and given himſelf for me.</hi> Rom. 8.9, 10. <hi>Now ye are not in the Fleſh, but in the Spirit, becauſe the Spirit of God dwelleth in you: But if any Man hath not the Spirit of Chriſt, the ſame is not his: And if Chriſt be in you, the Body is dead, becauſe of ſin; but the Spirit is Life, for Righteouſneſs ſake. For,</hi> as Epheſ. 5.8. <hi>ye were once Darkneſs, but are now Light in the Lord, walk as Children of the Light.</hi> Col. 1.16, to the end, <hi>Which Riches is Chriſt in you the Hope of Glory.</hi> The Apoſtle did preach and admoniſh, That he might preſent every Man perfect in Chriſt: Here was the Work of a true Miniſter of Chriſt, to preach <hi>Perfection!</hi> For the Light, Chriſt within, doth convince of all Sins any one hath committed. John 4.29. <hi>Come ſee a Man which told me all
+<pb n="13" facs="tcp:48136:7"/>things that ever I did: Is not he the Chriſt?</hi> Verſ. 39. to 42. <hi>Eph.</hi> 5.12, 13. <hi>For it is a ſhame, even to ſpeak of thoſe things which are done of ſome in ſecret. But all things, when they are reproved of the Light, are manifeſt:</hi> Concerning <hi>Light,</hi> read <hi>John</hi> 3.19. &amp; 8.12. &amp; 9.5. &amp; 12.46. 1 <hi>John</hi> 4.16. <hi>God is Love; he that dwelleth in love, dwelleth in God, and God in him.</hi> 1 Cor. 3.16. <hi>for Chriſt Jeſus is the Author of Eternal Salvation to all that obey him.</hi> Acts 4.12. <hi>Neither is there Salvation in any other: For among Men there is given none other Name under Heaven, whereby we muſt he ſaved.</hi> Now to thoſe that believe, this is precious: See what high Titles the Apoſtle <hi>Peter</hi> gives them, 1 <hi>Pet.</hi> 2.9.10. <hi>A Choſen Generation, a Royal Prieſthood, an Holy Nation, a pe<g ref="char:EOLhyphen"/>culiar People; that ye ſhould ſhew forth the Praiſes of him, in well doing, who hath called you out of Darkneſs, into his marvellous Light: Which were not a People, yet are now the People of God, which in time paſt were not under Mercy, but now have obtained Mercy.</hi> Surely theſe People did witneſs a Freedom from Sin, and a Perfect State; for they were Elect, Royal, Holy Peculiar, and the People of God, and had obtained Mercy, yet Strangers, ſcattered thro' divers Countries, as in 1 <hi>Pet.</hi> 1. <hi>Acts</hi> 26.18. <hi>Paul,</hi> a true Miniſter of Jeſus Chriſt, was to <hi>turn People from Darkneſs to Light, from the Power of Satan unto God; that they might receive forgiveneſs of Sins, and an Inheritance among them that are ſanctified by Faith in me:</hi> What he witneſſed himſelf, he preached to others: <hi>Rom.</hi> 1.7. <hi>To all you that be at</hi> Rome, <hi>beloved of God, called to be Saints.</hi> 1 Cor. 1.2. <hi>
+                     <g ref="char:V">Ʋ</g>nto the Church of God which is at</hi> Corinth, <hi>to them that are ſanctifi<g ref="char:EOLhyphen"/>ed in Chriſt Jeſus, Saints by calling.</hi> Eph. 1.1. <hi>Paul an Apoſtle of Jeſus Chriſt, by the Will of God, to the Saints which are at</hi> Epheſus, <hi>and to the Faithful in Chriſt Jeſus.</hi> Phil. 1.1. <hi>To all the Saints in Chriſt Jeſus, which are at</hi> Philippi, <hi>with the Biſhops and Deacons.</hi> Coloſ. 1.1, 2. <hi>Paul an Apoſtle of Jeſus Chriſt, by the Will of God, and</hi> Ti<g ref="char:EOLhyphen"/>motheus <hi>our Brother, To them which are at</hi> Coloſſe, <hi>Saints and Faithful Brethren in Chriſt.</hi> Verſ. 4. <hi>Since we heard of your Faith in Chriſt Jeſus, and of your Love towards all Saints.</hi> 1 Theſ. 1.1. Paul, <hi>and</hi> Silvanus, <hi>and</hi> Timotheus, <hi>unto the Church of the</hi> Theſſalonians, <hi>which is in God, the Father,
+<pb n="14" facs="tcp:48136:8"/>and in the Lord Jeſus Chriſt;</hi> Paul, <hi>a Priſoner of Jeſus Chriſt, and</hi> Timotheus <hi>our Brother, unto</hi> Philemon <hi>our dear Friend and Fellow-helper, and to our dear Siſter</hi> Apphia, <hi>and to</hi> Archippus <hi>our fellow-Soldier, and to the Church which is in thy Houſe.</hi> Verſ. 5. <hi>When I hear of thy Love and Faith, which thou haſt towards the Lord Jeſus, and towards all Saints.</hi> All afore-mentioned witneſſed the Reſtauration, and a freedom from Sin: So the Twelve Apoſtles aſſem<g ref="char:EOLhyphen"/>bled. <hi>Acts</hi> 2.41. And the <hi>Three Thouſand</hi> Converted by <hi>Peter;</hi> ſo divers named in <hi>Rom.</hi> 16. 1 <hi>Cor.</hi> 16.19. <hi>Col.</hi> 4. 2 <hi>Tim.</hi> 7.8. <hi>Paul</hi> ſaid, <hi>He had fought a good Fight, had fi<g ref="char:EOLhyphen"/>niſhed his Courſe, and kept the Faith.</hi>
+               </p>
+               <p>Concerning <hi>Perfection,</hi> Matth. 5.48. 1 Cor. 1.10. Col. 1.28. Heb. 6.8. 2 Cor. 13.11. <hi>Brethren, fare ye well, be Perfect, be of good Courage, be of good Comfort, he of one Mind, live in Peace, and the God of Love and Peace ſhall be with you,</hi> Rom. 15.9. to 12 Heb. 13.21. 1 John 5.20.</p>
+               <p>They uſe no <hi>Water-Baptiſm, Sprinkling Infants,</hi> or the <hi>Supper,</hi> Col. 2.20, 21, 22. They uſe no <hi>Swearing,</hi> Matth. 5.34, to 37. James 5.12. Nor give Flattering <hi>Titles,</hi> nor reſpect <hi>Perſons,</hi> as <hi>Majeſty, Worſhip, Excellency,</hi> Job 32.21, 22. James 2.3, 9. Alſo they uſe the True Lan<g ref="char:EOLhyphen"/>guage, according to the holy Scriptures, as <hi>Thee</hi> and <hi>Thou,</hi> ſpeaking to one Perſon; <hi>Ye</hi> and <hi>You</hi> ſpeaking to many, or more than one; and not <hi>You</hi> to one, which is falſe.</p>
+            </div>
+            <div type="part">
+               <head>Their True Belief.</head>
+               <p>There is One only Almighty, true <hi>God, Creator,</hi> Gen. 1. John 4.24. &amp; 17.3. Mark 12.29. 1 Cor. 8.6. Epheſ. 4.6. &amp; 5.1, 2. Acts 17.28. Rom. 1.19.</p>
+               <p>Three Perſons is not mentioned in the holy Scriptures, nor Trinity therein; our Lord Jeſus Chriſt, he was the Eternal Son of God, glorified with the Father before the World began: And he was the <hi>promiſed Seed,</hi> Gen. 3.15. &amp; 12.3. <hi>The Seed of</hi> Abraham, <hi>Gen.</hi> 22.18. <hi>and of</hi> Jacob, <hi>Gen.</hi> 28.18. To be <hi>Born of a Virgin,</hi> Iſaiah 7.14. &amp; 9.6. For <hi>unto us a Child is born, and unto us a Son is given: And the Government is upon his Shoulder: And he ſhall call his Name, Wonderful Counſellor, The mighty God, The E<g ref="char:EOLhyphen"/>verlaſting
+<pb n="15" facs="tcp:48136:8"/>Father, The Prince of Peace.</hi> Iſa. 39.8. Chriſt's <hi>Sufferings</hi> and <hi>Death,</hi> Iſa. 52.13, 14. &amp; 53. &amp; 61.1. Matth. 1.25. He was born of the Virg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Mary,</hi> His Preaching, Mi<g ref="char:EOLhyphen"/>racles, Suffering, Death, Burial, Reſurrection, His Aſcending into Heaven, all which are fully expreſt, or declared, from <hi>Matth.</hi> 1. to 12. <hi>Acts</hi> 1. <hi>Rom.</hi> 10.9. <hi>For if thou ſhalt confeſs with thy Mouth, the Lord Jeſus, and ſhall believe in thine Heart, that God raiſed him up from the dead, thou ſhalt be ſaved.</hi>
+               </p>
+               <p>
+                  <hi>Concerning the Reſurrection of the Body,</hi> Job 19.25, 26, 27. Exod. 3.16. 2 Kings 2.11. Iſa. 26.19. Ezek. 3.7. Dan. 3.25. &amp; 12.2, 3, Jonah 2.2. John 5.28, 29. &amp; 11.24, 25, 26. Acts 24.15, 22. Rom. 6.5. 1 Cor. 15. Phil. 3.21. 1 Theſſ. 3.13. <hi>to the end.</hi> I ſuppoſe that no honeſt heart<g ref="char:EOLhyphen"/>ed People, that are called, or profeſs themſelves <hi>Quakers,</hi> but will, or doth aſſent to what is afore-mentioned of them, and of the Saints, in Words, and Quotations, if any will examine them, or any other honeſt hearted Proteſtant: Yet ſomething more of <hi>Cleanſing,</hi> and <hi>Freedom from Sin,</hi> in this Life, <hi>&amp;c.</hi> Matth. 3.10, 11, 12. Where <hi>John</hi> told them, <hi>One was to come after him, who would thorowly purge his Floor, and gather his Wheat into his Garner, but will burn up the Chaff with unquenchable Fire,</hi> Matth. 7.18, 19. Luke 3.17. John 15. <hi>Except there be a full Cleanſing from all Sin, ſuch a Branch is broken off, and doth not partake of the Vine, Chriſt.</hi> John. 8.34. <hi>Whoſoever committeth Sin, is the Servant of Sin:</hi> Verſ. 36. <hi>If the Son make you free, ye ſhall be free indeed.</hi> Rom. 6.16, 18, 20. <hi>For when ye were the Servants of Sin, ye were freed from Righteouſneſs.</hi> Verſ. 22. <hi>But now being freed from Sin, and made Servants unto God, ye have your fruit in Holineſs, and the end Ever<g ref="char:EOLhyphen"/>laſting Life.</hi> Rom. 8. 1 Cor. 6.9, 10, 11. <hi>And ſuch were ſome of you, but ye are waſhed, but ye are ſanctified but ye are juſtified, in the Name of the Lord Jeſus, and in the Spi<g ref="char:EOLhyphen"/>rit of our God.</hi> Verſ. 14.19, 20. Epheſ. 2. &amp; 4.22, to the end, Tit. 3.3, to 7. Gal. 5.20, to 23. where the Works of the Fleſh, and Fruit of the Spirit are deſcribed. Verſ. 24. <hi>For they that are Chriſt's, have crucified the fleſh, with the Luſts and Affections.</hi> 1 John 1.9. &amp; 3.8. James
+<pb n="16" facs="tcp:48136:9"/>2.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>He that committeth Sin, is of the Devil, for the Devil Sinneth from the beginning; for this purpoſe appeared the Son of God, to deſtroy the works of the Devil.</hi> Verſ. 9. <hi>Whoſoever is born of God, Sinneth not.</hi> Conſider what is Written, and exa<g ref="char:EOLhyphen"/>mine the Quotations, which is ſet down, in what Chapter and Verſe, for proof. And the Lord God, in the Riches of his Mercy, give you underſtanding in all things that is fit for you.</p>
+               <p>The honeſt hearted People called <hi>Quakers,</hi> denies, or are againſt, the uſe of the Carnal Weapon, either Offen<g ref="char:EOLhyphen"/>ſive, or Defenſive, <hi>Matth.</hi> 26.52. <hi>Then ſaid Jeſus unto him, Put up thy Sword into his Place: For all that take the Sword, ſhall periſh with the Sword.</hi> John 18.36. <hi>Jeſus anſwered, My Kingdom is not of this World: If my Kingdom were of this Word, my Servants would ſurely fight, that I ſhould not be delivered to the Jews: But now is my Kingdom not from hence.</hi> James 4.1. <hi>From whence are Wars and Contentions among you? Are they not hence, Even of your Luſts, that fight in your Members?</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48136:9" rendition="simple:additions"/>
+            <pb facs="tcp:48136:10"/>
+            <pb facs="tcp:48136:10" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
